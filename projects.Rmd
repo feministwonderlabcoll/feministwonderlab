@@ -4,7 +4,7 @@
 &nbsp;
 
 <div align="justify">
-## **<a href="https://osf.io/preprints/osf/2rcuz" target="_blank">Incorporating feminist practices into (psychological) science - the why, the what and the how</a>** (currently under review)
+## **<a href="https://doi.org/10.1525/collabra.142645" target="_blank">Incorporating feminist practices into (psychological) science - the why, the what and the how</a>**
 In this project, we applied a feminist lens to scientific research, showing how it can broaden theoretical perspectives, encourage collaboration and inclusion of marginalized groups. We demonstrated findings from an informal survey as part of a Society for the Improvement of Psychological Science hackathon, revealing that both academics and non-academics grapple with a lack of clear conceptual understanding regarding feminist approaches and feminism as a whole. We showed why researchers should incorporate feminist approaches in psychological science, what feminist approaches look like and how researchers can start incorporating them into their own work. In short, we propose constructive approaches for integrating feminist values and practices into the domain of psychological science, highlighting also what possible barriers exist to incorporating feminist practices into one‘s own work. Finally, you can also find here a short glossary explaining terminology that can support the communication of feminist research as well as a curated checklist of feminist practices to start out with. 
 </div>
 &nbsp;
